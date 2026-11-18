@@ -38,11 +38,3 @@ The program allows users to create bank accounts, deposit money, withdraw money,
 
    `java Main`
 
-## Project Structure
-
-```text
-BankAccountManagement/
-├── Main.java
-└── README.md
-```
-
